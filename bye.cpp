@@ -1,3 +1,4 @@
+/*Eduardo Dominguez Padilla*/
 #include <iostream>
 using namespace std;
 
