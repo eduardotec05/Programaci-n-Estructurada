@@ -14,7 +14,11 @@ using namespace std;
 
 int main()
 {
-    cout << "Nombre: Eduardo Dominguez Padilla\nEdad: 18 años\nLugar de residencia: Teocaltitan de Guadalupe\nFecha: 29/01/2024\nCarrera: Ingenieria en computacion\nSemestre: 2do" << endl;
-
+    cout << "Nombre: Eduardo Dominguez Padilla" << endl;
+    cout << "Edad: 18 años" << endl;
+    cout << "Lugar de residencia: Teocaltitan de Guadalupe" << endl;
+    cout << "Fecha: 29/01/2024" << endl;
+    cout << "Carrera: Ingenieria en computacion" << endl;
+    cout << "Semestre: 2do" << endl;
     return 0;
 }
