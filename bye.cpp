@@ -1,4 +1,5 @@
-/*Eduardo Dominguez Padilla*/
+/*Eduardo Dominguez Padilla
+CUALTOS */
 #include <iostream>
 using namespace std;
 
