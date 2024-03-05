@@ -1,8 +1,3 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-using namespace std;
-
 // Funciones para imprimir menú y leer opciones del usuario.
 // Funcion para imprimir el menú principal
 void ImprMenu()
